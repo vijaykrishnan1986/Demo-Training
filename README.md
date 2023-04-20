@@ -142,3 +142,5 @@ nothing to commit, working tree clean
 
 ### Website contents
 Created new file index.html
+
+### Working Directory -> Staging area -> git repo
