@@ -139,3 +139,6 @@ inline commit messages
 vii. git status
 On branch master
 nothing to commit, working tree clean
+
+### Website contents
+Created new file index.html
